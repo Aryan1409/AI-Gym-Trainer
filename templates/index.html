@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitPro - Smart Fitness Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>FitPro<span class="highlight">AI</span></h1>
+            <p class="tagline">Smart workout and nutrition plans tailored just for you</p>
+        </header>
+
+        <div class="form-container">
+            <h2>Tell us about yourself</h2>
+            <form id="userForm">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="Age">Age</label>
+                        <input type="number" id="Age" name="Age" min="16" max="99" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Gender">Gender</label>
+                        <select id="Gender" name="Gender" required>
+                            <option value="Male">Male</option>
+                            <option value="Female">Female</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Height">Height (cm)</label>
+                        <input type="number" id="Height" name="Height" min="100" max="250" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Weight">Weight (kg)</label>
+                        <input type="number" id="Weight" name="Weight" min="30" max="300" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="WorkoutFrequency">Workouts per week</label>
+                        <input type="number" id="WorkoutFrequency" name="WorkoutFrequency" min="0" max="7" required>
+                    </div>
+                </div>
+                
+                <button type="submit" class="btn-primary">Get My Personalized Plan</button>
+            </form>
+          </div>
+
+        <div id="results" style="display: none;">
+            <div class="results-header">
+                <h2>Your Personalized Fitness Plan</h2>
+                <div class="stats">
+                    <div class="stat-box">
+                        <span class="stat-label">Fitness Group</span>
+                        <span id="cluster" class="stat-value">-</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-label">Workout Focus</span>
+                        <span id="category" class="stat-value">-</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-label">Success Rate</span>
+                        <span id="goalProb" class="stat-value">-</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="plans-container">
+                <div class="plan-column">
+                    <div class="plan-card">
+                        <h3>Your Workout Plan</h3>
+                        <div id="workouts" class="plan-content"></div>
+                    </div>
+                </div>
+                
+                <div class="plan-column">
+                    <div class="plan-card">
+                        <h3>Your Diet Plan</h3>
+                        <div id="diet" class="plan-content"></div>
+                        <div class="chart-container">
+                            <canvas id="macroChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

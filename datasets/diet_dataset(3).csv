@@ -1,0 +1,10 @@
+goal,meal_type,description,calories,proteins,carbs,fats
+Weight Loss,Breakfast,Oatmeal with berries,250,8,40,5
+Weight Loss,Lunch,Grilled chicken salad,350,30,20,10
+Weight Loss,Dinner,Steamed vegetables with tofu,300,20,25,8
+Muscle Gain,Breakfast,Scrambled eggs with toast,400,25,30,15
+Muscle Gain,Lunch,Brown rice with chicken,500,35,50,12
+Muscle Gain,Dinner,Pasta with meat sauce,600,40,60,20
+Maintain,Breakfast,Greek yogurt with nuts,300,20,20,10
+Maintain,Lunch,Turkey sandwich with veggies,400,30,35,12
+Maintain,Dinner,Grilled salmon with quinoa,450,35,30,15

@@ -1,0 +1,8 @@
+goal,fitness_level,day,exercise,reps,sets,duration
+Lose Weight,Beginner,Monday,Jumping Jacks,20,3,5
+Lose Weight,Beginner,Monday,Plank,0,3,1
+Lose Weight,Beginner,Tuesday,Mountain Climbers,20,3,5
+Gain Muscle,Intermediate,Monday,Bench Press,10,3,0
+Gain Muscle,Intermediate,Tuesday,Squats,12,4,0
+Maintain,Advanced,Monday,Deadlift,5,5,0
+Maintain,Advanced,Tuesday,Pull-ups,10,4,0

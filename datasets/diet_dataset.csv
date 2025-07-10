@@ -1,0 +1,201 @@
+goal,meal_type,description,calories,proteins,carbs,fats
+Muscle Gain,Lunch,Grilled Chicken with Rice,386,17,64,6
+Muscle Gain,Snack,Vegan Stir Fry,514,23,62,25
+Maintain,Dinner,Baked Salmon with Quinoa,201,13,50,25
+Weight Loss,Snack,Grilled Chicken with Rice,413,22,42,6
+Muscle Gain,Dinner,Oatmeal with Fruit,505,28,30,18
+Maintain,Breakfast,Oatmeal with Fruit,446,40,45,19
+Maintain,Lunch,Oatmeal with Fruit,395,33,31,24
+Weight Loss,Dinner,Tuna Salad,596,15,54,17
+Weight Loss,Lunch,Grilled Chicken with Rice,273,22,70,15
+Maintain,Lunch,Vegan Stir Fry,289,27,60,25
+Weight Loss,Lunch,Grilled Chicken with Rice,355,18,55,14
+Muscle Gain,Snack,Oatmeal with Fruit,481,38,56,16
+Maintain,Snack,Turkey Wrap,315,30,21,13
+Maintain,Snack,Smoothie Bowl,609,27,64,16
+Muscle Gain,Snack,Tuna Salad,346,21,45,6
+Muscle Gain,Lunch,Turkey Wrap,449,12,36,23
+Weight Loss,Lunch,Grilled Chicken with Rice,541,29,26,9
+Weight Loss,Snack,Turkey Wrap,562,30,58,13
+Muscle Gain,Lunch,Oatmeal with Fruit,371,13,56,6
+Muscle Gain,Snack,Smoothie Bowl,460,24,69,25
+Maintain,Dinner,Oatmeal with Fruit,410,34,26,25
+Muscle Gain,Lunch,Tuna Salad,673,40,57,11
+Weight Loss,Snack,Oatmeal with Fruit,658,38,58,16
+Muscle Gain,Breakfast,Vegan Stir Fry,216,19,61,16
+Muscle Gain,Snack,Vegan Stir Fry,492,40,56,8
+Maintain,Dinner,Vegan Stir Fry,529,12,68,25
+Muscle Gain,Lunch,Oatmeal with Fruit,624,14,47,16
+Muscle Gain,Lunch,Vegan Stir Fry,368,34,66,25
+Maintain,Dinner,Grilled Chicken with Rice,525,16,60,23
+Muscle Gain,Snack,Baked Salmon with Quinoa,512,18,54,15
+Maintain,Breakfast,Vegan Stir Fry,353,29,29,8
+Weight Loss,Breakfast,Tuna Salad,576,12,69,6
+Muscle Gain,Breakfast,Protein Shake,657,13,68,22
+Maintain,Dinner,Grilled Chicken with Rice,319,28,66,6
+Muscle Gain,Dinner,Tuna Salad,542,15,46,9
+Maintain,Snack,Baked Salmon with Quinoa,268,24,63,5
+Maintain,Lunch,Smoothie Bowl,563,40,28,17
+Muscle Gain,Breakfast,Smoothie Bowl,536,13,27,7
+Weight Loss,Breakfast,Smoothie Bowl,640,11,32,17
+Muscle Gain,Breakfast,Oatmeal with Fruit,224,30,37,8
+Maintain,Dinner,Smoothie Bowl,638,36,35,15
+Maintain,Dinner,Protein Shake,364,14,30,5
+Weight Loss,Dinner,Smoothie Bowl,430,21,40,23
+Weight Loss,Snack,Vegan Stir Fry,621,35,68,9
+Maintain,Breakfast,Oatmeal with Fruit,231,30,20,17
+Weight Loss,Dinner,Vegan Stir Fry,225,31,56,5
+Maintain,Breakfast,Grilled Chicken with Rice,447,28,25,19
+Maintain,Dinner,Tuna Salad,551,22,67,23
+Weight Loss,Dinner,Protein Shake,686,37,22,8
+Muscle Gain,Dinner,Smoothie Bowl,231,21,43,12
+Maintain,Breakfast,Oatmeal with Fruit,214,22,60,9
+Muscle Gain,Dinner,Protein Shake,683,24,29,13
+Maintain,Snack,Vegan Stir Fry,491,19,57,19
+Weight Loss,Dinner,Turkey Wrap,593,22,68,10
+Maintain,Breakfast,Smoothie Bowl,532,13,41,25
+Maintain,Dinner,Baked Salmon with Quinoa,204,30,25,21
+Maintain,Dinner,Baked Salmon with Quinoa,571,27,64,7
+Maintain,Snack,Smoothie Bowl,406,32,26,18
+Muscle Gain,Snack,Baked Salmon with Quinoa,630,26,57,17
+Maintain,Lunch,Grilled Chicken with Rice,442,40,41,19
+Muscle Gain,Breakfast,Grilled Chicken with Rice,524,31,38,15
+Muscle Gain,Lunch,Vegan Stir Fry,642,36,41,17
+Muscle Gain,Breakfast,Turkey Wrap,332,24,53,16
+Muscle Gain,Breakfast,Oatmeal with Fruit,319,12,41,7
+Muscle Gain,Lunch,Baked Salmon with Quinoa,440,17,39,8
+Maintain,Lunch,Turkey Wrap,380,24,51,21
+Muscle Gain,Breakfast,Oatmeal with Fruit,526,38,63,8
+Weight Loss,Breakfast,Turkey Wrap,467,31,68,18
+Maintain,Snack,Baked Salmon with Quinoa,226,25,56,15
+Maintain,Dinner,Turkey Wrap,619,38,57,5
+Maintain,Snack,Vegan Stir Fry,219,36,32,14
+Maintain,Breakfast,Vegan Stir Fry,505,39,58,24
+Muscle Gain,Snack,Vegan Stir Fry,261,20,41,15
+Weight Loss,Snack,Protein Shake,518,31,49,11
+Weight Loss,Dinner,Turkey Wrap,664,16,27,19
+Weight Loss,Breakfast,Baked Salmon with Quinoa,426,14,30,22
+Maintain,Snack,Turkey Wrap,243,13,69,24
+Weight Loss,Dinner,Oatmeal with Fruit,336,21,26,10
+Weight Loss,Dinner,Turkey Wrap,431,39,36,13
+Muscle Gain,Lunch,Protein Shake,369,31,46,13
+Muscle Gain,Dinner,Turkey Wrap,553,16,30,23
+Maintain,Breakfast,Baked Salmon with Quinoa,345,21,34,9
+Maintain,Dinner,Grilled Chicken with Rice,477,21,27,17
+Maintain,Lunch,Smoothie Bowl,314,33,57,11
+Maintain,Breakfast,Oatmeal with Fruit,387,39,33,19
+Maintain,Snack,Smoothie Bowl,546,37,64,24
+Maintain,Snack,Baked Salmon with Quinoa,537,10,55,23
+Maintain,Dinner,Turkey Wrap,385,35,68,22
+Muscle Gain,Snack,Protein Shake,329,16,30,21
+Muscle Gain,Snack,Grilled Chicken with Rice,541,21,23,21
+Weight Loss,Breakfast,Oatmeal with Fruit,278,24,41,24
+Muscle Gain,Dinner,Vegan Stir Fry,363,33,53,6
+Muscle Gain,Breakfast,Grilled Chicken with Rice,249,11,31,12
+Maintain,Snack,Smoothie Bowl,278,36,25,12
+Maintain,Lunch,Protein Shake,216,14,30,6
+Weight Loss,Lunch,Smoothie Bowl,401,35,55,12
+Muscle Gain,Lunch,Protein Shake,621,27,34,7
+Weight Loss,Dinner,Turkey Wrap,536,14,33,25
+Weight Loss,Lunch,Turkey Wrap,559,29,52,19
+Weight Loss,Lunch,Grilled Chicken with Rice,675,32,29,8
+Maintain,Breakfast,Baked Salmon with Quinoa,530,21,21,23
+Weight Loss,Breakfast,Turkey Wrap,682,32,68,7
+Maintain,Snack,Oatmeal with Fruit,254,36,55,19
+Muscle Gain,Breakfast,Tuna Salad,308,40,64,22
+Maintain,Dinner,Smoothie Bowl,608,22,62,17
+Weight Loss,Breakfast,Grilled Chicken with Rice,540,11,26,7
+Muscle Gain,Snack,Oatmeal with Fruit,452,14,32,5
+Maintain,Lunch,Protein Shake,655,21,20,21
+Weight Loss,Breakfast,Oatmeal with Fruit,530,29,68,11
+Maintain,Snack,Protein Shake,552,35,25,9
+Muscle Gain,Breakfast,Protein Shake,385,26,29,23
+Muscle Gain,Snack,Protein Shake,285,35,69,15
+Weight Loss,Dinner,Vegan Stir Fry,295,32,48,18
+Muscle Gain,Lunch,Vegan Stir Fry,393,19,21,18
+Muscle Gain,Dinner,Turkey Wrap,603,28,40,13
+Maintain,Snack,Smoothie Bowl,326,33,45,15
+Maintain,Lunch,Baked Salmon with Quinoa,560,10,62,23
+Maintain,Lunch,Turkey Wrap,400,40,57,9
+Weight Loss,Breakfast,Smoothie Bowl,688,18,37,20
+Maintain,Dinner,Tuna Salad,371,37,51,25
+Muscle Gain,Snack,Oatmeal with Fruit,312,33,29,12
+Maintain,Breakfast,Protein Shake,251,21,47,14
+Maintain,Dinner,Smoothie Bowl,262,16,46,14
+Weight Loss,Breakfast,Grilled Chicken with Rice,351,28,24,14
+Weight Loss,Dinner,Smoothie Bowl,312,28,58,10
+Weight Loss,Breakfast,Protein Shake,424,20,55,10
+Weight Loss,Lunch,Smoothie Bowl,700,10,65,20
+Muscle Gain,Lunch,Turkey Wrap,308,12,57,5
+Maintain,Dinner,Tuna Salad,206,36,59,10
+Muscle Gain,Dinner,Tuna Salad,696,15,64,20
+Maintain,Snack,Vegan Stir Fry,481,26,45,16
+Maintain,Breakfast,Tuna Salad,481,13,67,22
+Maintain,Breakfast,Smoothie Bowl,467,25,41,12
+Muscle Gain,Lunch,Grilled Chicken with Rice,407,19,27,23
+Weight Loss,Snack,Grilled Chicken with Rice,586,12,41,6
+Muscle Gain,Snack,Grilled Chicken with Rice,239,10,69,14
+Muscle Gain,Breakfast,Vegan Stir Fry,333,14,40,15
+Muscle Gain,Lunch,Tuna Salad,549,19,50,20
+Muscle Gain,Snack,Turkey Wrap,251,40,56,9
+Muscle Gain,Dinner,Grilled Chicken with Rice,492,14,48,13
+Weight Loss,Breakfast,Vegan Stir Fry,217,17,57,11
+Maintain,Dinner,Grilled Chicken with Rice,417,32,29,5
+Muscle Gain,Lunch,Smoothie Bowl,328,27,53,6
+Weight Loss,Lunch,Tuna Salad,321,32,56,18
+Maintain,Breakfast,Tuna Salad,297,12,26,13
+Weight Loss,Lunch,Tuna Salad,239,38,27,6
+Muscle Gain,Snack,Turkey Wrap,480,18,33,9
+Weight Loss,Dinner,Grilled Chicken with Rice,337,16,29,14
+Weight Loss,Dinner,Oatmeal with Fruit,675,21,50,12
+Muscle Gain,Lunch,Smoothie Bowl,528,15,33,16
+Muscle Gain,Breakfast,Grilled Chicken with Rice,643,25,46,24
+Maintain,Breakfast,Oatmeal with Fruit,556,11,50,16
+Maintain,Dinner,Oatmeal with Fruit,328,34,69,17
+Muscle Gain,Lunch,Vegan Stir Fry,231,17,41,23
+Weight Loss,Lunch,Smoothie Bowl,450,29,25,16
+Maintain,Dinner,Grilled Chicken with Rice,462,31,64,20
+Maintain,Dinner,Baked Salmon with Quinoa,347,10,37,19
+Maintain,Breakfast,Smoothie Bowl,553,21,29,10
+Maintain,Dinner,Baked Salmon with Quinoa,252,15,63,23
+Maintain,Lunch,Smoothie Bowl,268,33,54,25
+Weight Loss,Breakfast,Tuna Salad,244,17,57,21
+Maintain,Snack,Grilled Chicken with Rice,448,22,48,13
+Weight Loss,Breakfast,Baked Salmon with Quinoa,351,29,56,22
+Weight Loss,Snack,Oatmeal with Fruit,484,38,32,15
+Maintain,Breakfast,Grilled Chicken with Rice,250,36,41,24
+Muscle Gain,Lunch,Grilled Chicken with Rice,690,18,37,21
+Muscle Gain,Breakfast,Oatmeal with Fruit,408,37,26,19
+Muscle Gain,Dinner,Protein Shake,383,20,20,14
+Muscle Gain,Snack,Smoothie Bowl,424,24,42,14
+Maintain,Dinner,Protein Shake,458,18,40,23
+Weight Loss,Lunch,Turkey Wrap,653,28,27,6
+Muscle Gain,Lunch,Turkey Wrap,507,11,48,19
+Weight Loss,Snack,Vegan Stir Fry,228,19,57,18
+Maintain,Snack,Protein Shake,564,29,41,25
+Weight Loss,Breakfast,Smoothie Bowl,521,19,57,5
+Weight Loss,Breakfast,Oatmeal with Fruit,318,28,36,20
+Weight Loss,Lunch,Vegan Stir Fry,684,24,28,19
+Maintain,Snack,Baked Salmon with Quinoa,552,14,60,15
+Maintain,Breakfast,Baked Salmon with Quinoa,230,40,41,10
+Weight Loss,Dinner,Baked Salmon with Quinoa,560,28,66,23
+Weight Loss,Dinner,Grilled Chicken with Rice,619,34,68,22
+Weight Loss,Breakfast,Turkey Wrap,403,28,58,21
+Maintain,Breakfast,Baked Salmon with Quinoa,577,40,67,18
+Weight Loss,Dinner,Smoothie Bowl,683,21,57,25
+Maintain,Breakfast,Grilled Chicken with Rice,628,13,28,18
+Weight Loss,Lunch,Grilled Chicken with Rice,380,20,34,20
+Weight Loss,Breakfast,Vegan Stir Fry,685,23,57,24
+Maintain,Breakfast,Smoothie Bowl,668,15,60,8
+Muscle Gain,Breakfast,Tuna Salad,227,31,59,5
+Maintain,Snack,Smoothie Bowl,633,15,68,8
+Muscle Gain,Breakfast,Grilled Chicken with Rice,618,18,28,7
+Maintain,Dinner,Baked Salmon with Quinoa,457,37,37,5
+Muscle Gain,Lunch,Smoothie Bowl,435,30,56,17
+Muscle Gain,Breakfast,Vegan Stir Fry,316,23,29,14
+Muscle Gain,Breakfast,Vegan Stir Fry,379,37,31,25
+Weight Loss,Breakfast,Vegan Stir Fry,435,11,52,10
+Weight Loss,Snack,Turkey Wrap,581,17,54,21
+Maintain,Lunch,Turkey Wrap,649,39,67,23
+Maintain,Lunch,Protein Shake,501,40,60,9
+Muscle Gain,Dinner,Tuna Salad,500,31,21,15

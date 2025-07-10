@@ -1,0 +1,201 @@
+goal,fitness_level,day,exercise,reps,sets,duration
+Lose Weight,Intermediate,Saturday,Planks,12,3,5
+Lose Weight,Beginner,Wednesday,Planks,20,3,10
+Lose Weight,Advanced,Sunday,Planks,20,5,10
+Lose Weight,Beginner,Monday,Bench Press,20,3,5
+Lose Weight,Intermediate,Wednesday,Squats,10,5,15
+Lose Weight,Intermediate,Tuesday,Pull Ups,12,4,15
+Gain Muscle,Beginner,Saturday,Burpees,20,3,10
+Maintain,Beginner,Wednesday,Pull Ups,15,3,5
+Maintain,Intermediate,Monday,Push Ups,10,3,5
+Gain Muscle,Beginner,Thursday,Lunges,20,4,15
+Gain Muscle,Beginner,Friday,Jumping Jacks,20,3,5
+Gain Muscle,Advanced,Sunday,Pull Ups,20,5,5
+Maintain,Advanced,Tuesday,Burpees,12,5,5
+Gain Muscle,Intermediate,Wednesday,Jumping Jacks,15,3,15
+Gain Muscle,Advanced,Wednesday,Mountain Climbers,10,4,5
+Gain Muscle,Advanced,Tuesday,Planks,20,4,5
+Lose Weight,Beginner,Thursday,Mountain Climbers,20,5,15
+Lose Weight,Advanced,Monday,Bench Press,15,3,10
+Lose Weight,Advanced,Saturday,Pull Ups,15,3,15
+Maintain,Beginner,Wednesday,Bench Press,20,3,10
+Gain Muscle,Intermediate,Wednesday,Planks,12,3,10
+Lose Weight,Beginner,Monday,Burpees,12,4,5
+Gain Muscle,Intermediate,Monday,Planks,12,4,5
+Gain Muscle,Beginner,Friday,Squats,10,4,5
+Lose Weight,Beginner,Tuesday,Burpees,12,5,5
+Gain Muscle,Advanced,Thursday,Push Ups,15,4,5
+Maintain,Advanced,Tuesday,Burpees,15,5,15
+Maintain,Advanced,Friday,Bench Press,15,4,10
+Maintain,Beginner,Thursday,Planks,15,3,10
+Gain Muscle,Intermediate,Monday,Lunges,15,5,10
+Lose Weight,Intermediate,Tuesday,Bench Press,20,5,10
+Gain Muscle,Intermediate,Tuesday,Push Ups,20,3,10
+Maintain,Advanced,Sunday,Lunges,15,3,15
+Maintain,Intermediate,Sunday,Mountain Climbers,15,4,10
+Maintain,Beginner,Sunday,Jumping Jacks,12,4,5
+Maintain,Advanced,Monday,Squats,12,4,5
+Maintain,Advanced,Saturday,Planks,10,5,5
+Lose Weight,Beginner,Friday,Mountain Climbers,12,5,5
+Lose Weight,Intermediate,Saturday,Burpees,15,5,15
+Lose Weight,Beginner,Monday,Bench Press,15,3,15
+Maintain,Advanced,Sunday,Squats,12,3,10
+Maintain,Beginner,Sunday,Pull Ups,12,4,5
+Lose Weight,Intermediate,Sunday,Jumping Jacks,12,3,15
+Lose Weight,Intermediate,Thursday,Pull Ups,20,3,5
+Gain Muscle,Intermediate,Saturday,Bench Press,15,3,5
+Maintain,Intermediate,Tuesday,Squats,15,3,5
+Maintain,Advanced,Friday,Burpees,12,5,10
+Lose Weight,Beginner,Saturday,Deadlifts,20,4,5
+Maintain,Advanced,Thursday,Burpees,20,5,15
+Gain Muscle,Intermediate,Tuesday,Squats,20,3,10
+Gain Muscle,Intermediate,Friday,Planks,20,5,15
+Lose Weight,Intermediate,Sunday,Pull Ups,12,5,15
+Lose Weight,Advanced,Friday,Planks,15,5,15
+Maintain,Advanced,Saturday,Mountain Climbers,20,4,15
+Gain Muscle,Intermediate,Tuesday,Squats,10,5,5
+Maintain,Advanced,Monday,Bench Press,12,4,10
+Gain Muscle,Intermediate,Saturday,Burpees,20,3,10
+Lose Weight,Beginner,Tuesday,Pull Ups,15,4,5
+Lose Weight,Advanced,Sunday,Jumping Jacks,10,3,5
+Maintain,Intermediate,Thursday,Jumping Jacks,20,3,5
+Gain Muscle,Advanced,Sunday,Squats,20,4,10
+Maintain,Advanced,Monday,Planks,12,4,15
+Gain Muscle,Beginner,Wednesday,Planks,15,3,5
+Gain Muscle,Advanced,Friday,Burpees,10,5,15
+Maintain,Advanced,Friday,Burpees,20,5,5
+Maintain,Beginner,Friday,Bench Press,20,4,5
+Maintain,Advanced,Friday,Deadlifts,12,4,5
+Gain Muscle,Intermediate,Saturday,Mountain Climbers,12,5,15
+Maintain,Intermediate,Sunday,Mountain Climbers,20,4,5
+Lose Weight,Advanced,Wednesday,Bench Press,12,5,15
+Gain Muscle,Advanced,Monday,Bench Press,15,3,15
+Lose Weight,Advanced,Tuesday,Planks,10,3,15
+Gain Muscle,Intermediate,Wednesday,Lunges,10,4,15
+Gain Muscle,Intermediate,Monday,Planks,12,4,10
+Lose Weight,Beginner,Tuesday,Deadlifts,15,3,10
+Maintain,Beginner,Sunday,Planks,12,3,5
+Maintain,Advanced,Thursday,Pull Ups,15,5,5
+Gain Muscle,Beginner,Monday,Deadlifts,15,5,15
+Maintain,Advanced,Friday,Pull Ups,20,4,10
+Maintain,Intermediate,Monday,Jumping Jacks,20,4,15
+Maintain,Intermediate,Monday,Jumping Jacks,10,5,15
+Gain Muscle,Advanced,Saturday,Mountain Climbers,12,4,15
+Maintain,Intermediate,Tuesday,Burpees,10,4,15
+Maintain,Intermediate,Thursday,Squats,20,3,10
+Maintain,Advanced,Saturday,Burpees,15,4,10
+Lose Weight,Beginner,Monday,Squats,12,4,15
+Lose Weight,Intermediate,Sunday,Push Ups,15,5,15
+Maintain,Beginner,Wednesday,Bench Press,12,5,5
+Maintain,Advanced,Sunday,Jumping Jacks,10,5,5
+Gain Muscle,Advanced,Saturday,Pull Ups,20,5,15
+Maintain,Beginner,Saturday,Pull Ups,15,3,15
+Maintain,Intermediate,Saturday,Pull Ups,20,5,10
+Lose Weight,Beginner,Wednesday,Planks,20,5,10
+Maintain,Advanced,Monday,Deadlifts,15,4,15
+Gain Muscle,Intermediate,Wednesday,Lunges,12,3,10
+Lose Weight,Advanced,Monday,Bench Press,10,5,5
+Gain Muscle,Intermediate,Monday,Mountain Climbers,12,5,10
+Lose Weight,Intermediate,Tuesday,Push Ups,15,4,5
+Maintain,Beginner,Tuesday,Bench Press,10,5,10
+Lose Weight,Intermediate,Saturday,Mountain Climbers,20,4,15
+Gain Muscle,Beginner,Wednesday,Squats,15,4,10
+Maintain,Intermediate,Thursday,Planks,12,5,15
+Gain Muscle,Advanced,Monday,Push Ups,15,5,10
+Gain Muscle,Beginner,Tuesday,Lunges,15,5,10
+Maintain,Advanced,Friday,Squats,10,4,10
+Lose Weight,Advanced,Saturday,Deadlifts,12,3,5
+Lose Weight,Beginner,Tuesday,Squats,10,5,15
+Lose Weight,Intermediate,Monday,Bench Press,20,3,15
+Gain Muscle,Advanced,Sunday,Burpees,15,4,15
+Gain Muscle,Intermediate,Friday,Burpees,20,5,15
+Gain Muscle,Beginner,Wednesday,Mountain Climbers,15,3,5
+Lose Weight,Beginner,Monday,Bench Press,10,3,10
+Maintain,Advanced,Monday,Mountain Climbers,12,5,10
+Maintain,Beginner,Wednesday,Push Ups,20,3,10
+Lose Weight,Beginner,Thursday,Bench Press,20,5,5
+Lose Weight,Intermediate,Sunday,Planks,20,4,10
+Gain Muscle,Intermediate,Sunday,Push Ups,12,3,10
+Lose Weight,Advanced,Friday,Push Ups,10,3,15
+Lose Weight,Advanced,Saturday,Planks,12,5,10
+Lose Weight,Advanced,Saturday,Push Ups,20,3,10
+Lose Weight,Intermediate,Tuesday,Deadlifts,12,5,5
+Lose Weight,Beginner,Monday,Jumping Jacks,20,4,5
+Maintain,Beginner,Tuesday,Mountain Climbers,15,3,5
+Gain Muscle,Beginner,Sunday,Planks,12,4,15
+Lose Weight,Beginner,Monday,Planks,10,5,10
+Lose Weight,Intermediate,Wednesday,Burpees,15,5,15
+Gain Muscle,Intermediate,Tuesday,Mountain Climbers,20,3,10
+Maintain,Intermediate,Sunday,Jumping Jacks,15,4,15
+Maintain,Intermediate,Saturday,Bench Press,12,5,5
+Maintain,Advanced,Thursday,Mountain Climbers,15,3,15
+Gain Muscle,Beginner,Tuesday,Push Ups,10,4,5
+Lose Weight,Beginner,Saturday,Jumping Jacks,20,4,15
+Gain Muscle,Advanced,Monday,Mountain Climbers,15,5,10
+Gain Muscle,Beginner,Monday,Bench Press,12,4,15
+Lose Weight,Intermediate,Tuesday,Squats,15,5,5
+Maintain,Advanced,Tuesday,Planks,10,5,15
+Lose Weight,Intermediate,Monday,Deadlifts,10,3,5
+Maintain,Beginner,Monday,Planks,15,4,10
+Gain Muscle,Advanced,Monday,Lunges,12,3,10
+Lose Weight,Beginner,Wednesday,Pull Ups,12,5,10
+Lose Weight,Intermediate,Sunday,Deadlifts,15,5,15
+Lose Weight,Advanced,Friday,Pull Ups,12,3,15
+Maintain,Intermediate,Sunday,Lunges,15,4,5
+Gain Muscle,Advanced,Wednesday,Bench Press,12,3,10
+Gain Muscle,Beginner,Tuesday,Mountain Climbers,12,5,15
+Maintain,Advanced,Saturday,Lunges,10,4,5
+Gain Muscle,Beginner,Saturday,Burpees,12,5,10
+Gain Muscle,Advanced,Tuesday,Pull Ups,10,5,10
+Gain Muscle,Intermediate,Monday,Mountain Climbers,20,5,15
+Gain Muscle,Beginner,Wednesday,Bench Press,15,3,5
+Gain Muscle,Advanced,Saturday,Bench Press,12,4,15
+Gain Muscle,Beginner,Friday,Jumping Jacks,12,4,15
+Gain Muscle,Beginner,Saturday,Burpees,10,5,15
+Gain Muscle,Advanced,Sunday,Pull Ups,12,4,10
+Gain Muscle,Beginner,Wednesday,Burpees,12,3,15
+Gain Muscle,Beginner,Sunday,Squats,12,3,15
+Gain Muscle,Advanced,Saturday,Push Ups,15,4,10
+Maintain,Advanced,Monday,Mountain Climbers,10,4,10
+Gain Muscle,Advanced,Monday,Lunges,12,5,5
+Lose Weight,Intermediate,Saturday,Jumping Jacks,12,3,15
+Lose Weight,Advanced,Thursday,Pull Ups,10,5,5
+Gain Muscle,Advanced,Monday,Bench Press,12,5,15
+Maintain,Beginner,Tuesday,Bench Press,20,3,15
+Maintain,Intermediate,Saturday,Pull Ups,12,5,10
+Maintain,Beginner,Monday,Push Ups,20,3,10
+Lose Weight,Intermediate,Tuesday,Deadlifts,20,4,10
+Gain Muscle,Advanced,Thursday,Planks,12,5,5
+Gain Muscle,Advanced,Tuesday,Jumping Jacks,12,3,5
+Lose Weight,Advanced,Thursday,Jumping Jacks,15,4,5
+Gain Muscle,Beginner,Tuesday,Squats,15,5,10
+Maintain,Advanced,Sunday,Push Ups,15,4,5
+Gain Muscle,Intermediate,Saturday,Push Ups,20,5,15
+Lose Weight,Intermediate,Wednesday,Burpees,10,4,15
+Lose Weight,Beginner,Thursday,Lunges,10,4,15
+Lose Weight,Advanced,Monday,Push Ups,12,5,5
+Maintain,Beginner,Monday,Pull Ups,12,3,10
+Maintain,Intermediate,Tuesday,Lunges,12,5,10
+Lose Weight,Beginner,Wednesday,Deadlifts,15,3,10
+Lose Weight,Intermediate,Wednesday,Planks,15,5,15
+Maintain,Beginner,Friday,Lunges,15,3,10
+Lose Weight,Intermediate,Monday,Lunges,15,5,10
+Gain Muscle,Advanced,Friday,Burpees,12,5,15
+Maintain,Intermediate,Tuesday,Bench Press,10,3,5
+Gain Muscle,Advanced,Saturday,Squats,10,5,5
+Gain Muscle,Beginner,Friday,Push Ups,15,5,5
+Maintain,Intermediate,Friday,Lunges,10,5,5
+Gain Muscle,Beginner,Wednesday,Pull Ups,12,4,10
+Maintain,Beginner,Tuesday,Lunges,15,5,15
+Lose Weight,Intermediate,Tuesday,Planks,20,5,5
+Gain Muscle,Intermediate,Saturday,Deadlifts,10,3,10
+Gain Muscle,Beginner,Saturday,Push Ups,12,4,10
+Lose Weight,Advanced,Wednesday,Pull Ups,15,4,5
+Maintain,Intermediate,Wednesday,Squats,10,5,5
+Gain Muscle,Beginner,Monday,Jumping Jacks,10,3,15
+Lose Weight,Beginner,Friday,Deadlifts,15,3,15
+Lose Weight,Intermediate,Friday,Mountain Climbers,10,5,15
+Gain Muscle,Advanced,Sunday,Mountain Climbers,15,3,5
+Lose Weight,Beginner,Thursday,Pull Ups,10,5,10
+Lose Weight,Advanced,Friday,Squats,20,3,5
+Gain Muscle,Beginner,Friday,Planks,15,3,10
