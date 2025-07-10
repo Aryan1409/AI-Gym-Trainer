@@ -69,6 +69,12 @@ python app.py
 http://127.0.0.1:5000
 ```
 ---
+### 📊 Screenshot
+
+<img width="890" height="917" alt="3" src="https://github.com/user-attachments/assets/6204b397-03cb-4dd0-a41b-5de0b4c1e902" />
+<img width="1908" height="1026" alt="2" src="https://github.com/user-attachments/assets/0305c939-7775-42a3-99f4-755a98327eed" />
+<img width="1897" height="882" alt="1" src="https://github.com/user-attachments/assets/bd618ac8-07e9-45c9-b3fa-1f48673b92cc" />
+
 
 ### 📚 Datasets Used
 
