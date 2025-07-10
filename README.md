@@ -107,7 +107,7 @@ This project is licensed under the MIT License.
 ```yml
 
 Let me know if you want:
-- A version with screenshots
+
 - Hindi-translated README
 - README badge icons and GitHub stats
 
